@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.Campusfind_teamarslan" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/cf_primary</item>
+        <item name="colorOnPrimary">@color/cf_on_primary</item>
+        <item name="colorPrimaryContainer">@color/cf_primary_container</item>
+        <item name="colorOnPrimaryContainer">@color/cf_on_primary_container</item>
+        <item name="colorSecondary">@color/cf_secondary</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="colorSurface">@color/cf_surface</item>
+        <item name="colorOnSurface">@color/cf_on_surface</item>
+        <item name="colorOnSurfaceVariant">@color/cf_on_surface_variant</item>
+        <item name="colorSurfaceVariant">@color/cf_surface_variant</item>
+        <item name="android:statusBarColor">@color/cf_primary</item>
+        <item name="android:navigationBarColor">@color/cf_surface</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <style name="Theme.Campusfind_teamarslan" parent="Base.Theme.Campusfind_teamarslan" />
+</resources>

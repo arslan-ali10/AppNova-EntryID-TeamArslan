@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="cf_primary">#0E6B56</color>
+    <color name="cf_primary_dark">#0A4A3B</color>
+    <color name="cf_on_primary">#FFFFFFFF</color>
+    <color name="cf_primary_container">#C8F0E2</color>
+    <color name="cf_on_primary_container">#062E26</color>
+    <color name="cf_secondary">#1C4E72</color>
+    <color name="cf_surface">#F3F6F4</color>
+    <color name="cf_surface_variant">#FFFFFFFF</color>
+    <color name="cf_on_surface">#1C1C1C</color>
+    <color name="cf_on_surface_variant">#5C6762</color>
+    <color name="cf_lost">#8C1D18</color>
+    <color name="cf_lost_bg">#F9DEDC</color>
+    <color name="cf_found">#0E6B56</color>
+    <color name="cf_found_bg">#C8F0E2</color>
+    <color name="cf_returned">#6B5600</color>
+    <color name="cf_returned_bg">#FFF1C2</color>
+    <color name="cf_nav_inactive">#5C6762</color>
+</resources>

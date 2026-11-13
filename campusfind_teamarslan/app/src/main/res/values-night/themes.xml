@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.Campusfind_teamarslan" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/cf_primary</item>
+        <item name="colorOnPrimary">@color/cf_on_primary</item>
+        <item name="colorPrimaryContainer">@color/cf_primary_dark</item>
+        <item name="colorOnPrimaryContainer">@color/cf_primary_container</item>
+        <item name="colorSecondary">@color/cf_secondary</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="colorSurface">#121816</item>
+        <item name="colorOnSurface">#E7EEEA</item>
+        <item name="colorOnSurfaceVariant">#B7C4BE</item>
+        <item name="colorSurfaceVariant">#1C2622</item>
+        <item name="android:statusBarColor">@color/cf_primary_dark</item>
+        <item name="android:navigationBarColor">#121816</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

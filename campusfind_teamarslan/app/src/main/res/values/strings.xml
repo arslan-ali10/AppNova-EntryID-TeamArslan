@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CampusFind</string>
+    <string name="invalid_login">Invalid email or password</string>
+    <string name="email_exists">An account with this email already exists</string>
+    <string name="location_permission_required">Location permission is required to tag this item</string>
+    <string name="github_repo_url">https://github.com/AppNova-EntryID-TeamArslan</string>
+    <string name="team_members">Arslan</string>
+</resources>
